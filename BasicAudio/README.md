@@ -1,6 +1,6 @@
 # BasicAudio Music 256a HW1 Yuan li
 
-This project demonstrates how to deal with additive synthesis in JUCE. Implements 4 sine wave oscillator where the frequency and the gain are preset as a harmanic chord which can also be controlled by users using sliders and a checkbox that allows users to enhance the sepcific oscillator. Also appliedy a Smooth function to provide a better sound quality.
+This project demonstrates how to deal with additive synthesis in JUCE. Implement 4 sine wave oscillators where the frequency and the gain are preset as a harmaonic chord which can also be controlled by users using sliders and a checkbox that allows users to enhance the specific oscillator. Also appliedy a Smooth function to provide a better sound quality.
 
 ---
 
