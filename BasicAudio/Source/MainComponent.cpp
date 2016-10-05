@@ -74,7 +74,7 @@ public:
         
         // configuring frequency label box and adding it to the main window
         addAndMakeVisible(frequencyAllLable);
-        frequencyAllLable.setText ("Change all", dontSendNotification);
+        frequencyAllLable.setText ("Change Tone", dontSendNotification);
         frequencyAllLable.attachToComponent (&frequencyAllSlider, true);
         
         setSize (600, 500);
