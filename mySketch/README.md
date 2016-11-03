@@ -1,6 +1,6 @@
-# LightEscapeSynth
+# EXO Milestone 1
   
-Music 256a/Cs 476a Homework 2 This is the Milestone 1 for project 4, which is implemented in Open frameworks.
+Music 256a/Cs 476a Homework 4 This is the Milestone 1 for project 4, which is implemented in Open frameworks.
 
 ---
 
