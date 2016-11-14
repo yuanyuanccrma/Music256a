@@ -19,6 +19,6 @@ public:
     void dragEvent(ofDragInfo dragInfo);
     void gotMessage(ofMessage msg);
     ofSoundPlayer sound;
-    ofImage background;
-    
+    ofSoundPlayer synth;
+    ofSoundPlayer vocals;    
 };
